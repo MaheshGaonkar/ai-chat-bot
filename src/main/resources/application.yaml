@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ai-chat-bot
+
+openai:
+  api-key: dummy
+  model-name: dummy
